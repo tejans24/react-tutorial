@@ -1,0 +1,23 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "Test react js out",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejans24/react-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "author": "Teja N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejans24/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/tejans24/react-tutorial#readme"
+}
